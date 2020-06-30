@@ -1,0 +1,1 @@
+document.getElementById("devs").innerHTML = "Hello, my name is Tajdidul and I am a student at Queens College. I am majoring in Computer Scence and I aspire to become a Developer.";

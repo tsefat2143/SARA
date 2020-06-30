@@ -1,0 +1,2 @@
+document.getElementById("inHeight").innerHTML = "Browser inner window height: " + window.innerHeight||document.documentElement.clientHeight||document.body.clientHeight + "<br><br>";
+document.getElementById("inWidth").innerHTML = "Browser inner window width: " + window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth;
